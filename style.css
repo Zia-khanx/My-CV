@@ -1,0 +1,50 @@
+#box img {
+  width: 200px;
+  height: 200px;
+  margin-left: 40%;
+  border-radius: 50%;
+  box-shadow: 2px 2px 15px black;
+  background: none;
+  
+}
+h1 {
+  background-color: black;
+  color: aliceblue;
+}
+#p1 {
+  background-color: black;
+  color: aliceblue;
+}
+
+body{
+  /* background-image: url(background.jpg); */
+  background-size: cover;
+  background-color: rgb(93, 96, 99);
+  border: 3px solid black;
+  margin: auto;
+  width: 70%;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  
+  
+}
+.item{
+  margin-left: 400px;
+}
+
+.container2{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+#contact{
+  margin-left: 400px;
+}
+.class2 {
+  margin-left: 30px;
+}
+
+
